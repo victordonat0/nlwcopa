@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BolãoCopa" title="#copa" src="https://raw.githubusercontent.com/victordonat0/nlwcopa/main/server/Web.png" width="1200px" />
+    <img alt="BolãoCopa" title="#copa" src="https://github.com/victordonat0/nlwcopa/raw/master/server/Web.png" width="1200px" />
 </h1>
 
 ![Badge em Finish](http://img.shields.io/static/v1?label=STATUS&message=FINISH&color=GREEN&style=for-the-badge)
@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 # Clone este repositório
 
-$ git clone https://github.com/alissonandrade2020/nlwcopa/server
+$ git clone https://github.com/victordonat0/nlwcopa/server
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd nlwcopa
@@ -57,7 +57,7 @@ $ npm run dev
 
 # Clone este repositório
 
-$ git clone <https://github.com/alissonandrade2020/nlwcopa/web>
+$ git clone <https://github.com/victordonat0/nlwcopa/web>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd nlwcopa
